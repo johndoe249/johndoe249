@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm John Doe</h1>
 <h3 align="center">A passionate Assembly developer</h3>
 
+<img src="githubBanner.png" alt="An image for the profile banner" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johndoe249&label=Profile%20views&color=0e75b6&style=flat" alt="johndoe249" /> </p>
 
 - 🔭 I’m currently working on **Snake**
